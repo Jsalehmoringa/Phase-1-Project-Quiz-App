@@ -115,3 +115,11 @@ function setCount(){
 }
 
 
+function restartQuiz(){
+    correctScore = askedCount = 0;
+    _playAgainBtn.style.display = "none";
+    _checkBtn.style.display = "block";
+    _checkBtn.disabled = false;
+    setCount();
+    loadQuestion();
+}
