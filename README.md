@@ -16,7 +16,7 @@ Open the terminal on your computer.
 
 Clone the repo from github using:
 
-    git clone https://github.com/Jsalehmoringa/Phase-1-Project-Quiz-App.git
+    git clone; https://github.com/Jsalehmoringa/Phase-1-Project-Quiz-App.git
 
 Change directory into the repo folder:
 
